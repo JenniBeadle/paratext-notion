@@ -1,0 +1,58 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.defaultSidebar.category.Training-Manual": {
+    "message": "Training-Manual",
+    "description": "The label for category Training-Manual in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Appendix": {
+    "message": "Appendix",
+    "description": "The label for category Appendix in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Introduction": {
+    "message": "Introduction",
+    "description": "The label for category Introduction in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Stage-1": {
+    "message": "Stage-1",
+    "description": "The label for category Stage-1 in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Stage-2": {
+    "message": "Stage-2",
+    "description": "The label for category Stage-2 in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Stage-3": {
+    "message": "Stage-3",
+    "description": "The label for category Stage-3 in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Stage-4": {
+    "message": "Stage-4",
+    "description": "The label for category Stage-4 in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Stage-5": {
+    "message": "Stage-5",
+    "description": "The label for category Stage-5 in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Stage-6": {
+    "message": "Stage-6",
+    "description": "The label for category Stage-6 in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Video-summaries": {
+    "message": "Video-summaries",
+    "description": "The label for category Video-summaries in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Enhanced-resources": {
+    "message": "Enhanced-resources",
+    "description": "The label for category Enhanced-resources in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Navigation": {
+    "message": "Navigation",
+    "description": "The label for category Navigation in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Project-sharing": {
+    "message": "Project-sharing",
+    "description": "The label for category Project-sharing in sidebar defaultSidebar"
+  }
+}

@@ -12,6 +12,7 @@ const config = {
   baseUrl: '/paratext-notion/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
+  trailingSlash: true,
   favicon: 'img/favicon.ico',
 
   // GitHub pages deployment config.
