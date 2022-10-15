@@ -1,38 +1,41 @@
-This repo creates https://sillsdev.github.io/docu-notion-sample-site/.
+# Website
 
-The GitHub Action associated with this repo does these things:
+This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
-1. uses [docu-notion](https://github.com/sillsdev/docu-notion) to grab content from [this set of Notion pages](https://hattonjohn.notion.site/docu-notion-sample-site-0e998b32da3c47edad0f62a25b49818c) and convert them into Docusaurus-friendly markdown pages,
-2. runs these through [Docusaurus](https://docusaurus.io/), and then
-3. publishes the result to Github Pages [here](https://sillsdev.github.io/docu-notion-sample-site/).
+### Installation
 
-## Getting Started
+```
+$ yarn
+```
 
-If you already have a Docusaurus site, or are using a different system, then you should use [docu-notion](https://github.com/sillsdev/docu-notion) directly. But if you're just getting started, you can save some time be forking this repo or using it as a template for your own [Docusaurus](https://docusaurus.io/) documentation project that uses [Notion](https://notion.so) for editing.
+### Local Development
 
-### Instructions
+```
+$ yarn start
+```
 
-1. Fork or click the "Use this template" button.
+This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
-1. In Notion, duplicate [this root documentation page](https://hattonjohn.notion.site/Documentation-Template-Docusaurus-0e998b32da3c47edad0f62a25b49818c) to your own account. You can rename it anything you like.
+### Build
 
-1. In order for docu-notion to read your site via Notion's API, you need to create what Notion calls an "integration". Follow [these instructions](https://developers.notion.com/docs/getting-started) to make an integration and get your token. **Limit your integration to "READ" access**.
+```
+$ yarn build
+```
 
-1. To test locally, define two environment variables:
+This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
-   - DOCU_NOTION_INTEGRATION_TOKEN
-   - DOCU_NOTION_SAMPLE_ROOT_PAGE (this is the ID part of the share link too your root page. It will look like `0e668b32da3c47edad0f61a25b49818b`)
+### Deployment
 
-1. `yarn node-pull` should pull your Notion pages into your `docs/` directory. Then do `yarn start` to test the site locally.
+Using SSH:
 
-1. Go through `docusaurus.config.js` and customize the `title`, `base-Url`, `project-name`, `metadata`, etc.
+```
+$ USE_SSH=true yarn deploy
+```
 
-1. To build you site using a [Github Action](https://github.com/features/actions), go to your new github repo > Settings > Secrets > Actions and add three "Repository Secrets":
+Not using SSH:
 
-   - DOCU_NOTION_INTEGRATION_TOKEN
-   - DOCU_NOTION_ROOT_PAGE (this is the ID part of the share link too your root page. It will look like `0e668b32da3c47edad0f61a25b49818b`)
-   - PERSON_ACCESS_TOKEN_FOR_PUSH_TO_GH_PAGES_BRANCH ([instructions](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) Give it "repo" permissions).
+```
+$ GIT_USER=<Your GitHub username> yarn deploy
+```
 
-1. Under "Actions", you should be able to manually launch a new "release" of your site.
-
-1. For information on adding pages, see the [docu-notion](https://github.com/sillsdev/docu-notion) instructions.
+If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
