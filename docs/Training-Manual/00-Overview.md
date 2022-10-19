@@ -33,55 +33,55 @@ Stage 1 Drafting
 ### Stage 2 Team check
 
 
-7. [**PN –**](Training-Manual/03-Stage-2/7.PN.md)[ Proper Names](Training-Manual/03-Stage-2/7.PN.md)
-8. [**SP –**](Training-Manual/03-Stage-2/8.SP.md)[ Spell Checking](Training-Manual/03-Stage-2/8.SP.md)
-9. [**GL –**](Training-Manual/03-Stage-2/9.GL.md)[ Glossary](Training-Manual/03-Stage-2/9.GL.md)
-10. [**BT –**](Training-Manual/03-Stage-2/10.BT.md)[ A 4-Step process for consistent Biblical Terms](Training-Manual/03-Stage-2/10.BT.md)
-11. [**MP –**](Training-Manual/03-Stage-2/11.MP.md)[ Compare a word or phrase](Training-Manual/03-Stage-2/11.MP.md)
-12. [**BC2 –**](Training-Manual/03-Stage-2/12.BC2.md)[ Basic Checks](Training-Manual/03-Stage-2/12.BC2.md)
-13. [**FC –**](Training-Manual/03-Stage-2/13.FC.md)[ Formatting checks](Training-Manual/03-Stage-2/13.FC.md)
-14. [**PD – Printing Drafts**](Training-Manual/03-Stage-2/14.PD.md)
-15. [**UN – Using Notes**](Training-Manual/03-Stage-2/15.UN.md)
+7. [**PN –**](file:///C:/Users/jjpdq/Documents/paratextmanual/versioned_docs/version-9.3/Training-Manual/03-Stage-2/7.PN.md)[ Proper Names](file:///C:/Users/jjpdq/Documents/paratextmanual/versioned_docs/version-9.3/Training-Manual/03-Stage-2/7.PN.md)
+8. [**SP –**](file:///C:/Users/jjpdq/Documents/paratextmanual/versioned_docs/version-9.3/Training-Manual/03-Stage-2/8.SP.md)[ Spell Checking](file:///C:/Users/jjpdq/Documents/paratextmanual/versioned_docs/version-9.3/Training-Manual/03-Stage-2/8.SP.md)
+9. [**GL –**](file:///C:/Users/jjpdq/Documents/paratextmanual/versioned_docs/version-9.3/Training-Manual/03-Stage-2/9.GL.md)[ Glossary](file:///C:/Users/jjpdq/Documents/paratextmanual/versioned_docs/version-9.3/Training-Manual/03-Stage-2/9.GL.md)
+10. [**BT –**](file:///C:/Users/jjpdq/Documents/paratextmanual/versioned_docs/version-9.3/Training-Manual/03-Stage-2/10.BT.md)[ A 4-Step process for consistent Biblical Terms](file:///C:/Users/jjpdq/Documents/paratextmanual/versioned_docs/version-9.3/Training-Manual/03-Stage-2/10.BT.md)
+11. [**MP –**](file:///C:/Users/jjpdq/Documents/paratextmanual/versioned_docs/version-9.3/Training-Manual/03-Stage-2/11.MP.md)[ Compare a word or phrase](file:///C:/Users/jjpdq/Documents/paratextmanual/versioned_docs/version-9.3/Training-Manual/03-Stage-2/11.MP.md)
+12. [**BC2 –**](file:///C:/Users/jjpdq/Documents/paratextmanual/versioned_docs/version-9.3/Training-Manual/03-Stage-2/12.BC2.md)[ Basic Checks](file:///C:/Users/jjpdq/Documents/paratextmanual/versioned_docs/version-9.3/Training-Manual/03-Stage-2/12.BC2.md)
+13. [**FC –**](file:///C:/Users/jjpdq/Documents/paratextmanual/versioned_docs/version-9.3/Training-Manual/03-Stage-2/13.FC.md)[ Formatting checks](file:///C:/Users/jjpdq/Documents/paratextmanual/versioned_docs/version-9.3/Training-Manual/03-Stage-2/13.FC.md)
+14. [**PD – Printing Drafts**](file:///C:/Users/jjpdq/Documents/paratextmanual/versioned_docs/version-9.3/Training-Manual/03-Stage-2/14.PD.md)
+15. [**UN – Using Notes**](file:///C:/Users/jjpdq/Documents/paratextmanual/versioned_docs/version-9.3/Training-Manual/03-Stage-2/15.UN.md)
 
 
 ### Stage 3 Prepare for consultant
 
 
-16. [**BT1 –**](Training-Manual/04-Stage-3/16.BT1.md)[ Draft a Back Translation](Training-Manual/04-Stage-3/16.BT1.md)
-17. [**BT2 –**](Training-Manual/04-Stage-3/17.BT2.md)[ Interlinearize a project](Training-Manual/04-Stage-3/17.BT2.md)
-18. [**CT –**](Training-Manual/04-Stage-3/18.CT.md)[ Compare Text](Training-Manual/04-Stage-3/18.CT.md)
-19. [**BC3 –**](Training-Manual/04-Stage-3/19.BC3.md)[ Basic checks 3](Training-Manual/04-Stage-3/19.BC3.md)
+16. [**BT1 –**](file:///C:/Users/jjpdq/Documents/paratextmanual/versioned_docs/version-9.3/Training-Manual/04-Stage-3/16.BT1.md)[ Draft a Back Translation](file:///C:/Users/jjpdq/Documents/paratextmanual/versioned_docs/version-9.3/Training-Manual/04-Stage-3/16.BT1.md)
+17. [**BT2 –**](file:///C:/Users/jjpdq/Documents/paratextmanual/versioned_docs/version-9.3/Training-Manual/04-Stage-3/17.BT2.md)[ Interlinearize a project](file:///C:/Users/jjpdq/Documents/paratextmanual/versioned_docs/version-9.3/Training-Manual/04-Stage-3/17.BT2.md)
+18. [**CT –**](file:///C:/Users/jjpdq/Documents/paratextmanual/versioned_docs/version-9.3/Training-Manual/04-Stage-3/18.CT.md)[ Compare Text](file:///C:/Users/jjpdq/Documents/paratextmanual/versioned_docs/version-9.3/Training-Manual/04-Stage-3/18.CT.md)
+19. [**BC3 –**](file:///C:/Users/jjpdq/Documents/paratextmanual/versioned_docs/version-9.3/Training-Manual/04-Stage-3/19.BC3.md)[ Basic checks 3](file:///C:/Users/jjpdq/Documents/paratextmanual/versioned_docs/version-9.3/Training-Manual/04-Stage-3/19.BC3.md)
 
 
 ### Stage 4 Consultant check
 
 
-20. [**CT –**](Training-Manual/05-Stage-4/20.Collaboration-tools.md)[ Collaboration Tools](Training-Manual/05-Stage-4/20.Collaboration-tools.md)
+20. [**CT –**](file:///C:/Users/jjpdq/Documents/paratextmanual/versioned_docs/version-9.3/Training-Manual/05-Stage-4/20.Collaboration-tools.md)[ Collaboration Tools](file:///C:/Users/jjpdq/Documents/paratextmanual/versioned_docs/version-9.3/Training-Manual/05-Stage-4/20.Collaboration-tools.md)
 
 
 ### Stage 5 /Stage 3 UBS External/community review
 
 
-21. [**PPR:**](Training-Manual/06-Stage-5/21.PPR.md)[ Progress report](Training-Manual/06-Stage-5/21.PPR.md)
-22. [**BTR:**](Training-Manual/06-Stage-5/22.BTR.md)[ Biblical key terms report](Training-Manual/06-Stage-5/22.BTR.md)
+21. [**PPR:**](file:///C:/Users/jjpdq/Documents/paratextmanual/versioned_docs/version-9.3/Training-Manual/06-Stage-5/21.PPR.md)[ Progress report](file:///C:/Users/jjpdq/Documents/paratextmanual/versioned_docs/version-9.3/Training-Manual/06-Stage-5/21.PPR.md)
+22. [**BTR:**](file:///C:/Users/jjpdq/Documents/paratextmanual/versioned_docs/version-9.3/Training-Manual/06-Stage-5/22.BTR.md)[ Biblical key terms report](file:///C:/Users/jjpdq/Documents/paratextmanual/versioned_docs/version-9.3/Training-Manual/06-Stage-5/22.BTR.md)
 
 
 ### Stage 6 Stage 4 UBS Finalising for Publication
 
 
-23. [**PP:**](Training-Manual/07-Stage-6/23.PP.md)[ Parallel Passages](Training-Manual/07-Stage-6/23.PP.md)
-24. [**FFP:**](Training-Manual/07-Stage-6/24.FFP.md)[ Finalising for Publication](Training-Manual/07-Stage-6/24.FFP.md)
-25. [**Create a study Bible**](Training-Manual/07-Stage-6/25.StudyBibles.md)
+23. [**PP:**](file:///C:/Users/jjpdq/Documents/paratextmanual/versioned_docs/version-9.3/Training-Manual/07-Stage-6/23.PP.md)[ Parallel Passages](file:///C:/Users/jjpdq/Documents/paratextmanual/versioned_docs/version-9.3/Training-Manual/07-Stage-6/23.PP.md)
+24. [**FFP:**](file:///C:/Users/jjpdq/Documents/paratextmanual/versioned_docs/version-9.3/Training-Manual/07-Stage-6/24.FFP.md)[ Finalising for Publication](file:///C:/Users/jjpdq/Documents/paratextmanual/versioned_docs/version-9.3/Training-Manual/07-Stage-6/24.FFP.md)
+25. [**Create a study Bible**](file:///C:/Users/jjpdq/Documents/paratextmanual/versioned_docs/version-9.3/Training-Manual/07-Stage-6/25.StudyBibles.md)
 
 
 ### Appendix
 
 
-[A. Special texts](Training-Manual/08-Appendix/A.st.md)
+[A. Special texts](file:///C:/Users/jjpdq/Documents/paratextmanual/versioned_docs/version-9.3/Training-Manual/08-Appendix/A.st.md)
 
 
-[B. Three letter abbreviations](Training-Manual/08-Appendix/B.3l.md)
+[B. Three letter abbreviations](file:///C:/Users/jjpdq/Documents/paratextmanual/versioned_docs/version-9.3/Training-Manual/08-Appendix/B.3l.md)
 
 
-[C. Common USFM markers](Training-Manual/08-Appendix/C.USFM.md)
+[C. Common USFM markers](file:///C:/Users/jjpdq/Documents/paratextmanual/versioned_docs/version-9.3/Training-Manual/08-Appendix/C.USFM.md)
 
