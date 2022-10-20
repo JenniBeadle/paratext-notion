@@ -1,12 +1,11 @@
 ---
-title: A.st
+title: A Special text
 sidebar_position: 31
 
 ---
 
 
 
-title: A Special text
 
 
 The following passage often have special formatting (by adding other USFM codes).

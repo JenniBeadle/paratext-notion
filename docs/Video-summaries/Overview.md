@@ -1,12 +1,11 @@
 ---
-title: Overview
+title: Overview of Video Summaries
 sidebar_position: 127
 
 ---
 
 
 
-title: Overview of Video Summaries
 sidebar_position: 1
 
 

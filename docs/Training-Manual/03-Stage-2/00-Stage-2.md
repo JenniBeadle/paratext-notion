@@ -1,12 +1,11 @@
 ---
-title: 00-Stage-2
+title: Stage 2 - Team Checking
 sidebar_position: 7
 
 ---
 
 
 
-title: Stage 2 - Team Checking
 
 
 **Introduction**

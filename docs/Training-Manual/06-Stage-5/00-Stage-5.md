@@ -1,12 +1,11 @@
 ---
-title: 00-Stage-5
+title: Stage 5 / Stage 3 UBS - Review by the community
 sidebar_position: 24
 
 ---
 
 
 
-title: Stage 5 / Stage 3 UBS - Review by the community
 
 
 **Introduction**

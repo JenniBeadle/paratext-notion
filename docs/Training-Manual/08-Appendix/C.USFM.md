@@ -1,12 +1,11 @@
 ---
-title: C.USFM
+title: C. Common USFM Markers
 sidebar_position: 33
 
 ---
 
 
 
-title: C. Common USFM Markers
 pagination_next: null
 
 

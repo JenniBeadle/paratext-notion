@@ -1,12 +1,11 @@
 ---
-title: 00-Whats-new
+title: What's new - Paratext 9.3
 sidebar_position: 126
 
 ---
 
 
 
-title: What's new - Paratext 9.3
 sidebar_position: 3
 
 

@@ -1,12 +1,11 @@
 ---
-title: B.3l
+title: B Three letter abbreviations
 sidebar_position: 32
 
 ---
 
 
 
-title: B Three letter abbreviations
 
 
 ### Old Testament

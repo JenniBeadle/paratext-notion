@@ -1,12 +1,11 @@
 ---
-title: 00-Stage-4
+title: Stage 4 - Consultant Visit
 sidebar_position: 22
 
 ---
 
 
 
-title: Stage 4 - Consultant Visit
 
 
 **Introduction**
