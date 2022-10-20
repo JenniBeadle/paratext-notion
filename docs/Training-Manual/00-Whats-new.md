@@ -1,13 +1,12 @@
 ---
 title: 00-Whats-new
-sidebar_position: 126
-slug: /c4ae1a2a-8c16-4b62-be73-fcea3ea1aebf
+sidebar_position: 35
+slug: /acda3bfb-c05e-4bbe-ab5a-9523fa009e7e
 ---
 
 
 
 title: What's new - Paratext 9.3
-sidebar_position: 3
 
 
 ### Paratext Live
@@ -16,7 +15,12 @@ sidebar_position: 3
 Paratext Live uses a couple of servers.
 
 - Paratext 8, 9.0 and 9.1 use a server called Internet (secondary) WCF and Paratext 9.2 uses Internet (primary) AMQP.
-	- _This is why you can't use Paratext Live with 9.2 and 9.1 at the same time_
+
+:::info
+
+
+_This is why you can't use Paratext Live with 9.2 and 9.1 at the same time_ :::
+
 - In Paratext 9.3 when you start Paratext live you choose what server you want to use.
 	- **Internet (primary)**, which is 9.2 and 9.3.
 	- **Internet (secondary)** which is 9.0, 9.1 or Paratext 8.
@@ -34,7 +38,8 @@ The most obvious new feature the ability to **compare versions**.
 
 - Open a Study Bible Additions project
 - From the **Project** menu,
-- Under **Project**, choose **Compare Versions**_The changes in the additions are displayed_.
+- Under **Project**, choose **Compare Versions**
+	- _The changes in the additions are displayed_.
 
 ### Scripture reference in navigation bar
 
@@ -44,14 +49,9 @@ In Paratext 9.3 you can copy and paste a scripture reference into the navigation
 - Copy the text of a reference (from another file)
 - Click in the **book name** in the navigation bar
 - Paste using **Ctrl+V**
+The reference should be in a format that matches the interface language. For example,
 
-	![](./1158626626.png)
-
-
-The reference should be in a format that matches the interface language.
-
-
-For example,
+	![](./2020422743.png)
 
 - in English: MAT 12.3, Mrk 5:4, Galatians 1:12
 - in Spanish: Romanos 8:28
@@ -68,14 +68,16 @@ Currently can't copy from Paratext, but that feature is being added to a later u
 - The colours have changed from **green** to **grey**
 - You can reduce or expand the Greek / Hebrew by clicking the little arrow.
 
-	![](./1036502882.png)
+	![](./1349773288.png)
 
-- Open a text collection
+
+### Open text collection
+
 
 There is a new menu item on the **main menu**
 
 
-![](./839941766.png)
+![](./1722396893.png)
 
 - From the **Paratext menu**
 - Choose **Open text collection**
@@ -87,23 +89,20 @@ There is a new menu item on the **main menu**
 
 - Arrange windows by **rows** as well as by **columns**.
 
-:::tip
-
-Remember to save your layout!
-
-:::
+:::tip 
 
 
+Remember to save your layout! :::
 
 
-![](./1620979427.png)
+	![](./1437807269.png)
 
 
 ### Floating Windows
 
 - Dropdown to change the active project
 
-	![](./807351003.png)
+	![](./163776594.png)
 
 
 ### Other new/changed

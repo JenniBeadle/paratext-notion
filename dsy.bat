@@ -9,7 +9,7 @@ GOTO :AFTER_MENU
 CLS
 
 ECHO.
-ECHO Using Docusaurus
+ECHO Using Docusaurus with yarn commands
 ECHO.
 ECHO ---------------------------------------------
 ECHO PRESS 1-9 to select your task, or 0 to EXIT
