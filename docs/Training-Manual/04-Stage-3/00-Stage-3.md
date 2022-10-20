@@ -1,7 +1,7 @@
 ---
 title: 00-Stage-3
 sidebar_position: 17
-slug: /b2e2a08b-d0f4-4a7d-a063-33d46250331c
+
 ---
 
 

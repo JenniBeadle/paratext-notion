@@ -1,7 +1,7 @@
 ---
 title: 00-Whats-new
 sidebar_position: 126
-slug: /c4ae1a2a-8c16-4b62-be73-fcea3ea1aebf
+
 ---
 
 

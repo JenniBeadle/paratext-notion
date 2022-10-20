@@ -1,7 +1,7 @@
 ---
 title: 00-Stage-5
 sidebar_position: 24
-slug: /0f3f3f14-498f-4fd4-a2f6-f9cc9daebfef
+
 ---
 
 

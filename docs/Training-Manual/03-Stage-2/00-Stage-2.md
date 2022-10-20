@@ -1,7 +1,7 @@
 ---
 title: 00-Stage-2
 sidebar_position: 7
-slug: /85444ebf-d948-4233-8049-ab1f726ee737
+
 ---
 
 

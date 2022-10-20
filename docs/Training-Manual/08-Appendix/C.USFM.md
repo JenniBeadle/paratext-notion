@@ -1,7 +1,7 @@
 ---
 title: C.USFM
 sidebar_position: 33
-slug: /f17963d4-d895-4a4e-9b21-882b4941d343
+
 ---
 
 
