@@ -149,7 +149,6 @@ _Other_
 ### Custom Interlinear
 
 - How and When to Use the Interlinearizer ([3.3](/Video-summaries/04-Stage-3/3.3.Custom-interlinears/3.3.md))
-
 ### Spell check and wordlist
 
 - Approve Spellings of Common Words ([2.1a](/Video-summaries/03-Stage-2/2.1.Spell-check-wordlist/2.1a.md))
